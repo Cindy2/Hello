@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="button_1">Button_1</string>
+    <string name="button_2">Button_2</string>
+    <string name="button_3">Button_3</string>
+    <string name="add_menu">Add</string>
+    <string name="remove_menu">Remove</string>
+
+</resources>
